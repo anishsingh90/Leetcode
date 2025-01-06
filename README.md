@@ -31,3 +31,11 @@ Contributions, feedback, or discussions are always welcome! 🌟 Feel free to op
 - 📧 Email: anishraaz90@gmail.com 
 
 Happy Coding! 💻✨  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/anishsingh90/Leetcode/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
