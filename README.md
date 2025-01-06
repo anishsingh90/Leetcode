@@ -52,12 +52,19 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anishsingh90/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
