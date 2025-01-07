@@ -43,6 +43,7 @@ Happy Coding! 💻✨
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anishsingh90/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anishsingh90/Leetcode/tree/master/0011-container-with-most-water) |
 ## Two Pointers
 |  |
@@ -72,5 +73,6 @@ Happy Coding! 💻✨
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anishsingh90/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
