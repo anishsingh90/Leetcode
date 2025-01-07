@@ -39,6 +39,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0007-reverse-integer](https://github.com/anishsingh90/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anishsingh90/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
@@ -67,4 +69,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
