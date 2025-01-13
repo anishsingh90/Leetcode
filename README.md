@@ -87,4 +87,20 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anishsingh90/Leetcode/tree/master/0015-3sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/anishsingh90/Leetcode/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/anishsingh90/Leetcode/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/anishsingh90/Leetcode/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/anishsingh90/Leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
