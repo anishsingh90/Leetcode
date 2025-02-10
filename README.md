@@ -66,6 +66,7 @@ Happy Coding! 💻✨
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
+| [3447-clear-digits](https://github.com/anishsingh90/Leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +107,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/anishsingh90/Leetcode/tree/master/0210-course-schedule-ii) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/anishsingh90/Leetcode/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/anishsingh90/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
