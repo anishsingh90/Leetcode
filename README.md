@@ -47,12 +47,14 @@ Happy Coding! 💻✨
 | [0001-two-sum](https://github.com/anishsingh90/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anishsingh90/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anishsingh90/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anishsingh90/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anishsingh90/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anishsingh90/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
