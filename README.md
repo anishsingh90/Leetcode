@@ -50,6 +50,7 @@ Happy Coding! 💻✨
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anishsingh90/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/anishsingh90/Leetcode/tree/master/0135-candy) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0011-container-with-most-water](https://github.com/anishsingh90/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/anishsingh90/Leetcode/tree/master/0135-candy) |
 ## String
 |  |
 | ------- |
