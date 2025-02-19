@@ -41,6 +41,7 @@ Happy Coding! 💻✨
 | [0007-reverse-integer](https://github.com/anishsingh90/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anishsingh90/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Happy Coding! 💻✨
 | [0088-merge-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/anishsingh90/Leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishsingh90/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0001-two-sum](https://github.com/anishsingh90/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0015-3sum](https://github.com/anishsingh90/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,4 +135,9 @@ Happy Coding! 💻✨
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishsingh90/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
