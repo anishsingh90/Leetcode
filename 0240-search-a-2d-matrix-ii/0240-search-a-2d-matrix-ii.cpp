@@ -2,9 +2,7 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int n = matrix.size();
-        // if (n == 0) return false;
         int m = matrix[0].size();
-        // if (m == 0) return false;
 
         int row = 0;
         int col = m - 1;
