@@ -2,11 +2,11 @@ class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
         int low = 0;
-        int high = nums.size();
+        int high = nums.size()-1;
         int mid;
-        if(target>nums[high-1]){
-            return high;
-        }
+        // if(target>nums[high-1]){
+        //     return high;
+        // }
 
         while(low <= high){
             mid = (low+high)/2;
@@ -14,7 +14,7 @@ public:
                 return mid;
             }
 
-            if(target<nums[mid]){
+            if(nums[mid]>target){
                 high = mid - 1;
             }
             else{
@@ -22,5 +22,5 @@ public:
             }
         }
         return low;
-}
+    }
 };
