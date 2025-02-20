@@ -2,34 +2,23 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int n = matrix.size();
+        // if (n == 0) return false;
         int m = matrix[0].size();
-        
-        for (int i = 0; i < n; ++i) {
-            if (binarySearch(matrix[i], target)) {
+        // if (m == 0) return false;
+
+        int row = 0;
+        int col = m - 1;
+
+        while (row < n && col >= 0) {
+            if (matrix[row][col] == target) {
                 return true;
-            }
-        }
-        
-        return false;
-    }
-    
-private:
-    bool binarySearch(const vector<int>& row, int target) {
-        int left = 0;
-        int right = row.size() - 1;
-        
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            
-            if (row[mid] == target) {
-                return true;
-            } else if (row[mid] < target) {
-                left = mid + 1;
+            } else if (matrix[row][col] > target) {
+                col--;
             } else {
-                right = mid - 1;
+                row++;
             }
         }
-        
+
         return false;
     }
 };
