@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
@@ -8,17 +11,29 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
         
-        // Start from the top-right corner of the matrix
-        int row = 0;
-        int col = m - 1;
-        
-        while (row < n && col >= 0) {
-            if (matrix[row][col] == target) {
+        for (int i = 0; i < n; ++i) {
+            if (binarySearch(matrix[i], target)) {
                 return true;
-            } else if (matrix[row][col] > target) {
-                col--; // Move left
+            }
+        }
+        
+        return false;
+    }
+    
+private:
+    bool binarySearch(const vector<int>& row, int target) {
+        int left = 0;
+        int right = row.size() - 1;
+        
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            
+            if (row[mid] == target) {
+                return true;
+            } else if (row[mid] < target) {
+                left = mid + 1;
             } else {
-                row++; // Move down
+                right = mid - 1;
             }
         }
         
