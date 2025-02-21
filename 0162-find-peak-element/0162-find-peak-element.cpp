@@ -10,7 +10,7 @@ public:
             }
         }
       int max = INT_MIN;
-        if(flag ==0){
+        if(flag == 0){
           for(int i = 0 ; i<nums.size() ; i++){
                 if(nums[i]>max){
                 idx = i;
