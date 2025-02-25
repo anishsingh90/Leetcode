@@ -83,6 +83,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/anishsingh90/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
 | [3447-clear-digits](https://github.com/anishsingh90/Leetcode/tree/master/3447-clear-digits) |
@@ -90,11 +91,13 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/anishsingh90/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anishsingh90/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/anishsingh90/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
