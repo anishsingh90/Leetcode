@@ -2,7 +2,7 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         if (nums.size() <= 1) return;
-        std::vector<int> temp(nums.size());
+        vector<int> temp(nums.size());
         mergeSort(nums, temp, 0, nums.size() - 1);
     }
 
