@@ -125,6 +125,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/anishsingh90/Leetcode/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
@@ -142,6 +143,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [3447-clear-digits](https://github.com/anishsingh90/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -174,8 +176,10 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
