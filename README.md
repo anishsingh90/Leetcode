@@ -41,6 +41,7 @@ Happy Coding! 💻✨
 | [0007-reverse-integer](https://github.com/anishsingh90/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anishsingh90/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/anishsingh90/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -97,6 +98,7 @@ Happy Coding! 💻✨
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anishsingh90/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/anishsingh90/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -192,4 +194,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anishsingh90/Leetcode/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anishsingh90/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
