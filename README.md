@@ -88,6 +88,7 @@ Happy Coding! 💻✨
 | [0005-longest-palindromic-substring](https://github.com/anishsingh90/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anishsingh90/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/anishsingh90/Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anishsingh90/Leetcode/tree/master/0044-wildcard-matching) |
 | [3447-clear-digits](https://github.com/anishsingh90/Leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
@@ -145,6 +146,7 @@ Happy Coding! 💻✨
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anishsingh90/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [3447-clear-digits](https://github.com/anishsingh90/Leetcode/tree/master/3447-clear-digits) |
