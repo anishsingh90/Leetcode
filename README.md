@@ -58,6 +58,7 @@ Happy Coding! 💻✨
 | [0135-candy](https://github.com/anishsingh90/Leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/anishsingh90/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishsingh90/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/anishsingh90/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anishsingh90/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anishsingh90/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -106,6 +107,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0001-two-sum](https://github.com/anishsingh90/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/anishsingh90/Leetcode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/anishsingh90/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -120,6 +122,7 @@ Happy Coding! 💻✨
 | [0015-3sum](https://github.com/anishsingh90/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anishsingh90/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anishsingh90/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anishsingh90/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anishsingh90/Leetcode/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
@@ -167,6 +170,7 @@ Happy Coding! 💻✨
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anishsingh90/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anishsingh90/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -182,4 +186,8 @@ Happy Coding! 💻✨
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anishsingh90/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anishsingh90/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
