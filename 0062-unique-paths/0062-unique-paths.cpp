@@ -1,6 +1,7 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
+        //By Tabulation Method
         vector<vector<int>> dp(m, vector<int>(n, 0));
         
         
@@ -12,7 +13,7 @@ public:
                 dp[i][j] = dp[i-1][j] + dp[i][j-1];
             }
         }
-
+        
         return dp[m-1][n-1];
     }
 };
